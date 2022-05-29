@@ -1,0 +1,77 @@
+*{
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        text-decoration: none;
+    
+
+}
+.card2{
+    color: white;
+    box-shadow: 2px 0px 20px 2px black;
+    height: 92.5vh;
+    border-top-right-radius: 2.5rem;
+    border-top-left-radius: 1rem;
+    margin-left: 9rem;
+    width: 62rem;
+    background-color: #2c1e31;
+    overflow: auto;
+    margin-top: 1rem;
+    
+}
+.user_name{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 0.5rem;
+}
+.user_name h3{
+    margin-top: 6px;
+    margin-left: 5px;
+}
+.user_name h4{
+    margin-top: 9px;
+    margin-left: 44rem;
+    border:2px solid white;
+    padding-top: 2px;
+}
+.box{
+    color: black;
+    background-color: white;
+    height: 2rem;
+    width: 2rem;
+    border-radius: 1rem;
+}
+.box i{
+    padding-left:9px;
+    padding-top: 8px;
+}
+.lines{
+    margin-top: 10px;
+    padding-left: 2rem;
+    background-color: white;
+    color: black;
+    height: fit-content;
+}
+.react{
+    margin-top: 10px;
+    margin-bottom: 3rem;
+}
+#r1{
+    margin-left: 10px;
+}
+#r2{
+    margin-left: 6px;
+}
+#r3{
+    margin-left: 54rem;
+}
+#r4{
+    margin-left: 8px;
+}
+.lines1 img{
+    height: 9.2rem;
+    padding-top: 2rem;
+}
+.lines h5{
+    font-size: 20px;
+}

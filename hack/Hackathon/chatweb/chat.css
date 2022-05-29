@@ -1,0 +1,107 @@
+*{
+    color:rgb(0, 0, 0);
+
+}
+.back-top{
+    background-color: whitesmoke;
+    height: 15vh;
+   }
+   .bg-primary{
+       background-color: #5c345f;
+   }
+   .back-main{
+    background-color: whitesmoke;
+    height: 85vh;
+   }
+   
+   .back-container{
+    position: relative;
+   }
+   
+   .front-container{
+    position: absolute;
+    top:0;
+    left:0;
+    right: 0;
+   }
+   .front-container1{
+    position: absolute;
+    top:20px;
+    left:0;
+    right: 0;
+   }
+   .ml-2{
+       color: rgb(0, 0, 0);
+   }
+   .chat-top{
+    background-color: rgb(228, 162, 241);
+    min-height: 50px;
+   }
+   
+   .profile-image{
+    margin-top: 7px;
+    height: 30px;
+    width: 30px;
+    border:solid white 1px;
+   }
+   
+   .contacts{
+    background-color:white;
+    min-height: 600px;
+    color: rgb(0, 0, 0);
+    border:solid white;
+   }
+   
+   .contact-table-scroll{
+    overflow-y: scroll;
+    height: 600px;
+   }
+   
+   .message-area{
+    background:transparent;
+    min-height: 600px;
+   }
+   
+   .message-table-scroll{
+    overflow-y: scroll;
+    height: 550px;
+   }
+   
+   .message-box{
+    background-color:white;
+   }
+
+
+
+   #box1{
+    background: linear-gradient(gray, rgb(53, 52, 52),rgb(82, 82, 82));
+     border: solid 3px  ;
+     
+   }
+   #box2{
+    background:linear-gradient(rgb(214, 46, 230),rgb(41, 34, 41));
+    border: solid 3px  ;
+  } #box3{
+    background: linear-gradient(gray, rgb(53, 52, 52),rgb(82, 82, 82));
+    border: solid 3px  ;
+  } #box4{
+    background: linear-gradient(gray, rgb(53, 52, 52),rgb(82, 82, 82));
+    border: solid 3px  ;
+  } #box5{
+    background:linear-gradient(rgb(214, 46, 230),rgb(41, 34, 41));
+    border: solid 3px  ;
+  } #box6{
+    background: linear-gradient(gray, rgb(53, 52, 52),rgb(82, 82, 82));
+    border: solid 3px  ;
+  } #box7{
+    background:linear-gradient(rgb(214, 46, 230),rgb(41, 34, 41));
+    border: solid 3px  ;
+  } #box8{
+    background:linear-gradient(rgb(214, 46, 230),rgb(41, 34, 41));
+    border: solid 3px  ;
+  }
+  #box9{
+    background: linear-gradient(gray, rgb(53, 52, 52),rgb(82, 82, 82));
+    border: solid 3px  ;
+   
+  }
